@@ -221,9 +221,7 @@ loop allows the player to continuously input keystrokes. When a keystroke is inp
 	<li>G can go out of bounds on Map 8 with the boxes. #G (between boxes)</li>
 	<li>G won't move to proper line, it can hit the last wall rather than the last word (map2)</li>
 	<li>Refactor code, more comments</li>
-	<ul>
-		<li>Add Directions/Hints before or durring each level</li>
-	</ul>
+	<li>Add Hints (ie. Implemented Commands) before or durring each level or after a loss</li>
 </ul>
 
 
